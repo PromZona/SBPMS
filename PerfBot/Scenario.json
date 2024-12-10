@@ -1,0 +1,15 @@
+{
+  "Scenarios":
+  [
+    {
+      "LevelName": "Level1",
+      "Measurements": ["FPS", "Memory"],
+      "CollectingTime" : 5
+    },
+    {
+      "LevelName": "Level2",
+      "Measurements": ["FPS", "Memory"],
+      "CollectingTime" : 8
+    }
+  ]
+}

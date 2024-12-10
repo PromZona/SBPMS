@@ -1,0 +1,23 @@
+{
+  "Platform": "Windows",
+  "Build": "Game_v1.0",
+  "Timestamp": "2024-05-15T20:06:54",
+  "Samples": [
+    {
+      "LevelName": "Level1",
+      "Position": "(0, 0, 0)",
+      "Measurements": {
+        "FPS": 143.8005540166205,
+        "MemoryUsage": 43.4315297029025
+      }
+    },
+    {
+      "LevelName": "Level2",
+      "Position": "(0, 0, 0)",
+      "Measurements": {
+        "FPS": 46.349081364829395,
+        "MemoryUsage": 57.41361436818841
+      }
+    }
+  ]
+}
